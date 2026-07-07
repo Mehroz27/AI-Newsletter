@@ -1,0 +1,44 @@
+[
+  {
+    "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+    "name": "Yannic Kilcher",
+    "handle": "@YannicKilcher",
+    "focus": "Research paper deep-dives — ML papers explained in full detail",
+    "frequency": "weekly"
+  },
+  {
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "name": "Two Minute Papers",
+    "handle": "@TwoMinutePapers",
+    "focus": "Fast 3-5 min summaries of the latest AI research papers",
+    "frequency": "multiple per week"
+  },
+  {
+    "channel_id": "UCuK2Mf5As9OKfWU7XV6yzCg",
+    "name": "Matt Wolfe",
+    "handle": "@mreflow",
+    "focus": "AI tools news, weekly AI roundups, product launches",
+    "frequency": "multiple per week"
+  },
+  {
+    "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+    "name": "Nick Saraev",
+    "handle": "@nicksaraev",
+    "focus": "AI automation, agents, workflows, business use of AI",
+    "frequency": "multiple per week"
+  },
+  {
+    "channel_id": "UCYwLV1gDwzGbg7jXQ52bVnQ",
+    "name": "WorldofAI",
+    "handle": "@intheworldofai",
+    "focus": "AI news, tool reviews, model releases",
+    "frequency": "multiple per week"
+  },
+  {
+    "channel_id": "UClXAalunTPaX1YV185DWUeg",
+    "name": "Vaibhav Sisinty",
+    "handle": "@vaibhavsisinty",
+    "focus": "AI for business, productivity, growth using AI tools",
+    "frequency": "multiple per week"
+  }
+]

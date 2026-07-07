@@ -1,0 +1,141 @@
+[
+  {
+    "url": "https://openai.com/blog/rss.xml",
+    "name": "OpenAI Blog",
+    "category": "model_releases",
+    "enabled": true,
+    "note": "RSS can be unreliable - handled with fallback"
+  },
+  {
+    "url": "https://www.anthropic.com/rss.xml",
+    "name": "Anthropic",
+    "category": "model_releases",
+    "enabled": true
+  },
+  {
+    "url": "https://huggingface.co/blog/feed.xml",
+    "name": "Hugging Face",
+    "category": "tools",
+    "enabled": true
+  },
+  {
+    "url": "https://blog.google/technology/ai/rss/",
+    "name": "Google AI",
+    "category": "model_releases",
+    "enabled": true
+  },
+  {
+    "url": "https://ai.meta.com/blog/rss/",
+    "name": "Meta AI",
+    "category": "model_releases",
+    "enabled": true,
+    "note": "RSS can be inconsistent - handled with fallback"
+  },
+  {
+    "url": "https://blogs.microsoft.com/ai/feed/",
+    "name": "Microsoft AI",
+    "category": "model_releases",
+    "enabled": true
+  },
+  {
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "name": "ArXiv CS.AI",
+    "category": "research",
+    "enabled": true
+  },
+  {
+    "url": "https://rss.arxiv.org/rss/cs.LG",
+    "name": "ArXiv ML",
+    "category": "research",
+    "enabled": true
+  },
+  {
+    "url": "https://rss.arxiv.org/rss/cs.CL",
+    "name": "ArXiv NLP",
+    "category": "research",
+    "enabled": true
+  },
+  {
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "name": "TechCrunch AI",
+    "category": "company_news",
+    "enabled": true
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    "name": "The Verge AI",
+    "category": "company_news",
+    "enabled": true
+  },
+  {
+    "url": "https://venturebeat.com/ai/feed/",
+    "name": "VentureBeat AI",
+    "category": "company_news",
+    "enabled": true
+  },
+  {
+    "url": "https://www.wired.com/feed/tag/artificial-intelligence/latest/rss",
+    "name": "Wired AI",
+    "category": "tech_news",
+    "enabled": true
+  },
+  {
+    "url": "https://feeds.feedburner.com/technologyreview/fea",
+    "name": "MIT Tech Review",
+    "category": "tech_news",
+    "enabled": true
+  },
+  {
+    "url": "https://news.ycombinator.com/rss",
+    "name": "Hacker News",
+    "category": "tech_news",
+    "enabled": true,
+    "filter": "Show HN + AI keywords"
+  },
+  {
+    "url": "https://arstechnica.com/tag/artificial-intelligence/feed/",
+    "name": "Ars Technica AI",
+    "category": "tech_news",
+    "enabled": true
+  },
+  {
+    "url": "https://simonwillison.net/atom/everything/",
+    "name": "Simon Willison",
+    "category": "tech_news",
+    "enabled": true,
+    "note": "Best independent AI commentary - very high signal"
+  },
+  {
+    "url": "https://towardsdatascience.com/feed",
+    "name": "Towards Data Science",
+    "category": "research",
+    "enabled": true
+  },
+  {
+    "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+    "name": "ZDNet AI",
+    "category": "company_news",
+    "enabled": true
+  },
+  {
+    "url": "https://feed.infoq.com/",
+    "name": "InfoQ",
+    "category": "research",
+    "enabled": true,
+    "note": "Engineering-focused — better for research/techniques than tools"
+  },
+  {
+    "url": "https://buttondown.com/ainews/rss",
+    "name": "AI News (Swyx)",
+    "category": "tools",
+    "enabled": true,
+    "note": "High-signal AI tools and launches — curated by Swyx"
+  },
+  {
+    "url": "https://tldr.tech/api/rss/ai",
+    "name": "TLDR AI",
+    "category": "tools",
+    "enabled": true,
+    "note": "High-signal daily AI digest — covers tools, models, and research launches"
+  }
+]

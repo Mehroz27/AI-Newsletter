@@ -1,0 +1,7 @@
+# Keep your API key out of git
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc

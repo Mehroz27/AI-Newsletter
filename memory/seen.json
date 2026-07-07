@@ -1,0 +1,389 @@
+{
+  "entries": [
+    {
+      "url": "https://example.com/article-1",
+      "title": "GPT-5 Released Today",
+      "source": "",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://example.com/article-2",
+      "title": "Claude 4 Announcement",
+      "source": "",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://example.com/article-1",
+      "title": "GPT-5 Released Today",
+      "source": "",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://example.com/article-2",
+      "title": "Claude 4 Announcement",
+      "source": "",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "title": "Introducing GPT-5.4",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "title": "Codex Security: now in research preview",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+      "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+      "source": "TechCrunch AI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "source": "Google AI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "title": "OpenAI to acquire Promptfoo",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/",
+      "title": "Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/what-makes-quantum-machine-learning-quantum/",
+      "title": "What Makes Quantum Machine Learning \u201cQuantum\u201d?",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/",
+      "title": "Understanding Context and Contextual Retrieval in RAG",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+      "title": "How NVIDIA Builds Open Data for AI",
+      "source": "Hugging Face",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://huggingface.co/blog/storage-buckets",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "source": "Hugging Face",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+      "source": "Hugging Face",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "title": "Yann LeCun\u2019s AMI Labs raises $1.03B to build world models",
+      "source": "TechCrunch AI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+      "source": "Google AI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+      "source": "Google AI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+      "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+      "source": "TechCrunch AI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
+      "title": "LatentVLA: Latent Reasoning Models for Autonomous Driving",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/when-data-lies-finding-optimal-strategies-for-penalty-kicks-with-game-theory/",
+      "title": "When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/machine-learning-at-scale-managing-more-than-one-model-in-production/",
+      "title": "Machine Learning at Scale: Managing More Than One Model in Production",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://huggingface.co/blog/lerobot-release-v050",
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "source": "Hugging Face",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine\u2011Tuning, and On\u2011Device Optimizations",
+      "source": "Hugging Face",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://huggingface.co/blog/modular-diffusers",
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "source": "Hugging Face",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-excel",
+      "title": "OpenAI introduces ChatGPT for Excel and new financial data integrations",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything",
+      "title": "Introducing GPT\u20115.4",
+      "source": "Simon Willison",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/descript",
+      "title": "Descript enables multilingual video dubbing at scale",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/ai-in-multiple-gpus-zero-fsdp/",
+      "title": "AI in Multiple GPUs: ZeRO & FSDP",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/stop-tuning-hyperparameters-start-tuning-your-problem/",
+      "title": "Stop Tuning Hyperparameters. Start Tuning Your Problem.",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-black-box-problem-why-ai-generated-code-stops-being-maintainable/",
+      "title": "The Black Box Problem: Why AI-Generated Code Stops Being Maintainable",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "AI-Powered Bot Compromises GitHub Actions Workflows Across Microsoft, DataDog, and CNCF Projects",
+      "source": "InfoQ",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "title": "GPT-5.4 Thinking System Card",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "title": "New ways to learn math and science in ChatGPT",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "AI-Powered Bot Compromises GitHub Actions Workflows Across Microsoft, DataDog, and CNCF Projects",
+      "source": "InfoQ",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/uno-platform-6-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Uno Platform 6.5 Released With AI Agent Support, Unicode Text, and Studio Improvements",
+      "source": "InfoQ",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "How Datadog Cut the Size of Its Agent Go Binaries by 77%",
+      "source": "InfoQ",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8ZwPqnIobSY",
+      "title": "Meta Buys Moltbook, DeepSeek V4 This Week, Google's New Models & More!",
+      "source": "WorldofAI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "title": "Google brings Gemini in Chrome to India",
+      "source": "TechCrunch AI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+      "title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "source": "TechCrunch AI",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://github.com/microsoft/BitNet",
+      "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
+      "source": "Hacker News",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://www.infoq.com/presentations/ai-virtual-care/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Presentation: From Symptom Checkers to Smart Chatbots: The Role of AI in Virtual Care",
+      "source": "InfoQ",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Netflix Automates RDS PostgreSQL to Aurora PostgreSQL Migration Across 400 Production Clusters",
+      "source": "InfoQ",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/cloudflare-vinext-experimental/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Cloudflare Releases Experimental Next.js Alternative Built With AI Assistance",
+      "source": "InfoQ",
+      "first_seen": "2026-03-11",
+      "featured_in": "2026-W11"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-20",
+      "featured_in": "2026-W12"
+    },
+    {
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "title": "How we monitor internal coding agents for misalignment",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-20",
+      "featured_in": "2026-W12"
+    },
+    {
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-20",
+      "featured_in": "2026-W12"
+    },
+    {
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "title": "Equipping workers with insights about compensation",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-20",
+      "featured_in": "2026-W12"
+    },
+    {
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
+      "source": "OpenAI Blog",
+      "first_seen": "2026-03-20",
+      "featured_in": "2026-W12"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-a-neural-network-learned-its-own-fraud-rules-a-neuro-symbolic-ai-experiment/",
+      "title": "How a Neural Network Learned Its Own Fraud Rules: A Neuro-Symbolic AI Experiment",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-20",
+      "featured_in": "2026-W12"
+    },
+    {
+      "url": "https://towardsdatascience.com/hallucinations-in-llms-are-not-a-bug-in-the-data/",
+      "title": "Hallucinations in LLMs Are Not a Bug in the Data",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-20",
+      "featured_in": "2026-W12"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-multi-agent-trap/",
+      "title": "The Multi-Agent Trap",
+      "source": "Towards Data Science",
+      "first_seen": "2026-03-20",
+      "featured_in": "2026-W12"
+    }
+  ]
+}
